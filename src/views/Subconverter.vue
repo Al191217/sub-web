@@ -4,7 +4,7 @@
       <el-col>
         <el-card>
           <div slot="header">
-            白嫖集装箱
+            < a href="https://t.me/bpjzx1">白嫖集装箱</ a>
             <svg-icon icon-class="github" style="margin-left: 20px" @click="goToProject" />
 
             <div style="display: inline-block; position:absolute; right: 20px">{{ backendVersion }}</div>

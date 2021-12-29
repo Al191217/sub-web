@@ -489,7 +489,7 @@ export default {
     };
   },
   created() {
-    document.title = "Subscription Converter";
+    document.title = "白嫖集装箱";
     this.isPC = this.$getOS().isPc;
 
     // 获取 url cache
